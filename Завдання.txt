@@ -32,6 +32,3 @@ df.csv - продаж товарів у магазині по днях за ос
  
 
 
-cd "C:\Users\uazhyhalbo\Desktop\Data_Scientist_Resume\Tech_interview\TemaBit Fozzy Group\my_project"
-git clone https://github.com/BorysZhyhalo/TemaBit-Fozzy-Group.git
-cd TemaBit-Fozzy-Group
