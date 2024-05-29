@@ -3,7 +3,7 @@
 ### Опис проекту.
 * На підставі історичних даних з продажу товарів сформувати прогноз продажів на період 14 днів у розрізі товар/день.
 
-### EDA
+# EDA
 * Кількість записів: 226486
 * Колонки: Unnamed: 0, date, category_id, sku_id, sales_price, sales_quantity
 * Всі колонки заповнені, пропущені значення відсутні.
@@ -19,3 +19,8 @@ which may be due to seasonality or other factors. Also , we have a significant d
 * Average sale price per day: We can notice some growing of sales from 01-2020
 
 ### Look like after the growing in sales price from 01-2020 we have a significant sales drop in q-ty
+
+# Feature Engineering
+
+* Create day indicators for week, month, year, day and day off
+* Days Indicator (0 - weekday, 1 - day off)
