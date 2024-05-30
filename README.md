@@ -24,4 +24,6 @@ which may be due to seasonality or other factors. Also , we have a significant d
 
 * Create day indicators for week, month, year, day and day off
 * Days Indicator (0 - weekday, 1 - day off)
-* It's make sence to drop from the data frame 'sku_id', because this data does not give us value. 
+
+# Modeling the data
+* Coding of categorical data (One-Hot Encoding). We have no ordinal data.

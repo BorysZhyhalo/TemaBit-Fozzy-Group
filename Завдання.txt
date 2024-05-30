@@ -33,7 +33,7 @@ git config --global user.name "BorysZhyhalo"
 git config --global user.email "snach@ukr.net"
 
 git add .
-git commit -m "#we don't have negative values in sales_price and sales_quantity columns"
+git commit -m "Drop 'Modeling the data"
 git push origin main
 
 
